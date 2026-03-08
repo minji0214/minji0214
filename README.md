@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="[https://example.com/damis-github-banner.gif](https://github.com/user-attachments/assets/40e4e727-56cf-435f-a1a7-94536b98e401)" alt="Welcome to minji's Github Pixel Banner" width="800" />
+</div>
 
 <!--
 **minji0214/minji0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
