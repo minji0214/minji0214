@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://example.com/damis-github-banner.gif](https://github.com/user-attachments/assets/40e4e727-56cf-435f-a1a7-94536b98e401)" alt="Welcome to minji's Github Pixel Banner" width="800" />
+  <img src="https://github.com/user-attachments/assets/40e4e727-56cf-435f-a1a7-94536b98e401" alt="Welcome to minji's Github Pixel Banner" width="800" />
 </div>
 
 <!--
