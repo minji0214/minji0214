@@ -1,6 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/40e4e727-56cf-435f-a1a7-94536b98e401" alt="Welcome to minji's Github Pixel Banner" width="800" />
 </div>
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <a href="https://youtu.be/ZnNdxSSReD0?si=RPfZvVG9rprU6L4Z"><img src="https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/ZnNdxSSReD0?si=RPfZvVG9rprU6L4Z&theme=stream&layout=compact" alt="SoundBadge" /></a>
+</div>
 
 <!--
 **minji0214/minji0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
